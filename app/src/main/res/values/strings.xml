@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Support Android</string>
+    <string name="hello_support_android">Support Android app is running.</string>
+</resources>
